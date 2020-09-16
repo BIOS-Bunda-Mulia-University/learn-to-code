@@ -2,15 +2,15 @@
 C++ adalah bahasa pemrograman yang digunakan untuk membuat aplikasi umum
 Contohnya : Kalkulator, music player, video player, browser, dll
 
-|Program Hello World! (C++)|Program Hello World! (C\)|
-|--|--|
-|#include \<iostream>|#include <stdio.h>|
-|using namespace std;|  |
-|  |  |
-|int main() {|void main() {|
-|cout << "Hello world!";|printf("Hello world!");|
-|return 0;|  |
-|}|}|
+  Program Hello World! C++   | Program Hello World! C
+  -------------------------- | -------------
+  #include \<iostream>       | #include \<stdio.h>
+  using namespace std;       | 
+                             |⠀                       
+  int main() {               | void main() {
+    cout << "Hello world!";  |   printf("Hello world!");
+    return 0;                | 
+  }                          | }
 
 Program ini dapat dijalankan dengan bantuan Compiler C++. Compiler C++ ada banyak sekali
 Jadi, dapat di coba juga secara online di http://cpp.sh/
