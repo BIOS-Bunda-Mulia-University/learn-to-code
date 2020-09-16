@@ -2,13 +2,13 @@
 
 Ada beberapa operasi aritmatika yang dapat dilakukan dalam C++
 
-    Simbol  |  Nama Operasi
-  --------- | -----------
-      +     |  Penjumlahan
-      -     |  Pengurangan
-      *     |  Perkalian  
-      /		|  Pembagian
-      %     |  Modulus
+ |  Simbol  |  Nama Operasi | 
+ | --------- | ---------------- |
+ |    +     |  Penjumlahan | 
+ |     -     |  Pengurangan |
+ |     *     |  Perkalian        |
+ |     /     |  Pembagian    |
+ |     %   |  Modulus        |
 
 Contoh pengunaan operasi aritmatika pada C++ :  
 
